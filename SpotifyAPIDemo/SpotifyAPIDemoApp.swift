@@ -7,6 +7,7 @@
 
 import SwiftUI
 
+
 @main
 struct SpotifyAPIDemoApp: App {
     var body: some Scene {

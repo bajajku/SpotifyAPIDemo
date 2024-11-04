@@ -29,9 +29,22 @@
 		673CA4932CD820DA006C1C57 /* SpotifyAPIDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SpotifyAPIDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		673CA4BB2CD83894006C1C57 /* Exceptions for "SpotifyAPIDemo" folder in "SpotifyAPIDemo" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 673CA4782CD820D8006C1C57 /* SpotifyAPIDemo */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		673CA47B2CD820D8006C1C57 /* SpotifyAPIDemo */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				673CA4BB2CD83894006C1C57 /* Exceptions for "SpotifyAPIDemo" folder in "SpotifyAPIDemo" target */,
+			);
 			path = SpotifyAPIDemo;
 			sourceTree = "<group>";
 		};
